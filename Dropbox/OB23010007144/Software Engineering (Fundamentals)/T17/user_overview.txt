@@ -1,0 +1,12 @@
+
+        -------------------------------------------------------------------------
+            User Overview
+            
+            Number of Users: 3
+            Number of Tasks: 6
+            Tasks per User: {'admin': 3, 'olive': 2, 'DanielCraig': 1} 
+            Task share: {'admin': '50.00 %', 'olive': '33.33 %', 'DanielCraig': '16.67 %'}
+            Proportion of Completed Tasks: {'admin': '33.33 %', 'olive': '50.0 %', 'DanielCraig': '0.0 %'}
+            Proportion of Incomplete Tasks:  {'admin': '66.67 %', 'olive': '50.0 %', 'DanielCraig': '100.0 %'}
+            Proportion of Overdue Tasks for Each User: {'admin': '33.33 %', 'olive': '0.0 %', 'DanielCraig': '0.0 %'}
+        -------------------------------------------------------------------------
